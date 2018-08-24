@@ -7,4 +7,6 @@ Steps for effective text data cleaning. References: Analytics vidhya
 ### Practice 3  
 Spam detector, SMS text message from UCI Machine Learning repository, Porter stemmer, tf-idf, SVM credits: tutorial on build a spam filter by Redwan Huq   
 ### Practice 4  
-Naive bayes, using scikit learn. credits : tutorial on Analytics vidhya
+Naive bayes, using scikit learn. credits : tutorial on Analytics vidhya  
+### Practice 5
+Sentiment analysis, NLTK Vader SentimentAnalyser, Naive Bayes classifier. credit : Tutorial on Analysing Sentiments with NLTK on opensourceforu.com
