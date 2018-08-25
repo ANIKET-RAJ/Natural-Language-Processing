@@ -9,4 +9,7 @@ Spam detector, SMS text message from UCI Machine Learning repository, Porter ste
 ### Practice 4  
 Naive bayes, using scikit learn. credits : tutorial on Analytics vidhya  
 ### Practice 5
-Sentiment analysis, NLTK Vader SentimentAnalyser, Naive Bayes classifier. credit : Tutorial on Analysing Sentiments with NLTK on opensourceforu.com
+Sentiment analysis, NLTK Vader SentimentAnalyser, Naive Bayes classifier. credit : Tutorial on Analysing Sentiments with NLTK on opensourceforu.com  
+### Practice 6
+Stemming vs lemmatization, NLTK wordnetLemmatizer and porterstemmer  
+
