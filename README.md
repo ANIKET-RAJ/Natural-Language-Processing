@@ -11,5 +11,5 @@ Naive bayes, using scikit learn. credits : tutorial on Analytics vidhya
 ### Practice 5
 Sentiment analysis, NLTK Vader SentimentAnalyser, Naive Bayes classifier. credit : Tutorial on Analysing Sentiments with NLTK on opensourceforu.com  
 ### Practice 6
-Stemming vs lemmatization, NLTK wordnetLemmatizer and porterstemmer  
+Stemming vs lemmatization, NLTK wordnetLemmatizer and porterstemmer. Credit : Tutorial by  Mokhtar Ebrahim on dzone
 
